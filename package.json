@@ -1,0 +1,20 @@
+{
+  "name": "@mll-lab/prettier-config",
+  "version": "0.0.1",
+  "description": "The shareable prettier configuration of MLL",
+  "main": ".prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mll-lab/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Benedikt Franke <benedikt@franke.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mll-lab/prettier-config/issues"
+  },
+  "homepage": "https://github.com/mll-lab/prettier-config"
+}
