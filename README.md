@@ -10,8 +10,11 @@ The shareable prettier configuration of MLL
 
 ```js
 // .prettierrc.js
+module.exports = require('@mll-lab/prettier-config');
+
+// For customization
 module.exports = {
-  ...require('@mll-lab/prettier-config'),
-  ...
+    ...require('@mll-lab/prettier-config'),
+    ...
 };
 ```
