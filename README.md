@@ -4,7 +4,9 @@ The shareable prettier configuration of MLL
 
 ## Installation
 
-    yarn add --dev @mll-lab/prettier-config
+```shell
+yarn add --dev @mll-lab/prettier-config
+```
 
 ## Usage
 
